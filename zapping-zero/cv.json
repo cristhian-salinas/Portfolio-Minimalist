@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Cristhian Andres Salinas Diaz",
+    "label": "Estudiante de Desarrollo de Software con enfoque en análisis de datos. Manejo de Excel, SQL, Python y Power BI.",
+    "image": "/me.webp",
+    "email": "405cristhiansalinas@gmail.com",
+    "phone": "+57 3022730374",
+    "url": "",
+    "summary": "Tecnólogo en Desarrollo de Software en formación, con conocimientos en Excel (intermedio-avanzado), SQL, Python y Power BI. Experiencia en validación, depuración y análisis de datos para estudios de mercado, asegurando calidad y consistencia de la información. Enfocado en identificar inconsistencias, optimizar procesos y generar reportes para la toma de decisiones.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bogota",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "cristhian salinas",
+        "url": "https://linkedin.com/in/cristhian-andres-salinas-diaz-0b0208239"
+      },
+      {
+        "network": "GitHub",
+        "username": "cristhian salinas",
+        "url": "https://github.com/cristhian-salinas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kantar MillwardBrown",
+      "position": "Scripting Jr Executive",
+      "url": null,
+      "startDate": "2023-07-11",
+      "endDate": "2024-12-13",
+      "summary": "Responsable de la configuración, validación y monitoreo de estudios de mercado, asegurando la calidad, consistencia y correcta estructuración de los datos durante todo el proceso.",
+      "highlights": [
+        "Configuración y validación de estudios de mercado.",
+        "Control de calidad y consistencia de bases de datos.",
+        "Monitoreo y análisis de datos para detección de inconsistencias.",
+        "Coordinación con equipos para cumplimiento de entregables."
+      ]
+    },
+    {
+      "name": "Kantar MillwardBrown",
+      "position": "Scripting Assistant",
+      "url": null,
+      "startDate": "2022-07-11",
+      "endDate": "2023-07-11",
+      "summary": "Apoyo en la gestión y validación de datos para estudios de mercado, enfocándome en la calidad de la información y el soporte operativo de procesos.",
+      "highlights": [
+        "Validación y depuración de bases de datos.",
+        "Control de calidad de información.",
+        "Elaboración de reportes operativos."
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universitaria Agustiniana",
+    "url": "https://www.uniagustiniana.edu.co",
+    "area": "Tecnologia en desarrollo de Software",
+    "studyType": "Technologist",
+    "startDate": "2020-06-02",
+    "endDate": null,
+    "score": "",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Excel",
+      "level": "Intermedio-Avanzado",
+      "keywords": [
+        "Limpieza de datos", "Tablas dinámicas", "Funciones avanzadas", "Dashboards", "Análisis de datos"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Consultas SQL", "JOINs","Funciones agregadas", "Limpieza de datos", "Análisis de datos"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "PowerBI",
+      "level": "Intermedio",
+      "keywords": ["Visualización de datos", "Dashboards interactivos", "Modelado de datos", "DAX básico", "Análisis de datos"
+      ]
+    },
+     {
+      "name": "Python",
+      "level": "Intermedio",
+      "keywords": [
+        "Análisis de datos", "Pandas", "NumPy", "Limpieza de datos", "Visualización (Matplotlib, Seaborn)", "Manipulación de datos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+  {
+    "name": "Cookies",
+    "isActive": true,
+    "description": "Estudio tipo Kantar sobre preferencia de sabores de galletas",
+    "highlights": [
+      "Análisis de preferencias",
+      "En desarrollo"
+    ],
+    "url": "https://github.com/CristhianSalinas/analisis-encuesta-galletas"
+  },
+  {
+    "name": "Sales DataSet",
+    "isActive": true,
+    "description": "Análisis de datos de ventas realizado en Excel",
+    "highlights": [
+      "Uso de tablas dinámicas",
+      "Segmentación por sexo, edad, producto y mes",
+      "KPIs calculados"
+    ],
+    "url": "https://docs.google.com/spreadsheets/d/1G8VOAyW90QVMOcvzBJLVhxCsTX9cDoDk/edit?usp=drive_link&ouid=100345898025460031825&rtpof=true&sd=true"
+  },
+  {
+    "name": "Análisis de ventas PowerBI",
+    "isActive": true,
+    "description": "Dashboard interactivo de ventas creado en Power BI",
+    "highlights": [
+      "Visualizaciones interactivas",
+      "Segmentación dinámica",
+      "KPIs y gráficos profesionales"
+    ],
+    "url": "https://drive.google.com/drive/folders/1ES5DHCL8IyTx9JTHuJDOOYKazYm_Cu5-?usp=drive_link"
+  }
+]
+}
